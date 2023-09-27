@@ -1,0 +1,18 @@
+
+Para i = 1: 1 vez.
+
+Imprime: 1
+Para i = 2:  2 vezes.
+
+Imprime: 1 2
+Para i = 3:  3 vezes.
+
+Imprime: 1 2 3
+Para i = 4:  4 vezes.
+
+Imprime: 1 2 3 4
+sequência completa impressa será: 1 1 2 1 2 3 1 2 3 4
+
+resposta:
+
+e. 1 1 2 1 2 3 1 2 3 4
